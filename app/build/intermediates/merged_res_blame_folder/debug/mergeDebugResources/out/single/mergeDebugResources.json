@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "com.example.sketchbook.app-debug-36:/layout_activity_main.xml.flat",
+        "source": "com.example.sketchbook.app-main-38:/layout/activity_main.xml"
+    },
+    {
+        "merged": "/home/leo/.gradle/daemon/8.11.1/com.example.sketchbook.app-debug-36:/layout_activity_input.xml.flat",
+        "source": "/home/leo/.gradle/daemon/8.11.1/com.example.sketchbook.app-main-38:/layout/activity_input.xml"
+    },
+    {
+        "merged": "/home/leo/.gradle/daemon/8.11.1/com.example.sketchbook.app-debug-36:/layout_activity_main.xml.flat",
+        "source": "/home/leo/.gradle/daemon/8.11.1/com.example.sketchbook.app-main-38:/layout/activity_main.xml"
+    },
+    {
+        "merged": "/home/leo/.gradle/daemon/8.11.1/com.example.sketchbook.app-debug-36:/layout_floating_window.xml.flat",
+        "source": "/home/leo/.gradle/daemon/8.11.1/com.example.sketchbook.app-main-38:/layout/floating_window.xml"
+    },
+    {
+        "merged": "com.example.sketchbook.app-debug-36:/layout_floating_window.xml.flat",
+        "source": "com.example.sketchbook.app-main-38:/layout/floating_window.xml"
+    },
+    {
+        "merged": "/home/leo/.gradle/daemon/8.11.1/com.example.sketchbook.app-debug-36:/xml_file_paths.xml.flat",
+        "source": "/home/leo/.gradle/daemon/8.11.1/com.example.sketchbook.app-main-38:/xml/file_paths.xml"
+    }
+]
