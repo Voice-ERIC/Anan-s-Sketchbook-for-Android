@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">安安的素描本</string>
+    <string name="app_name">安安传话筒</string>
     <string name="start_overlay">启动悬浮窗</string>
     <string name="stop_overlay">关闭悬浮窗</string>
     <string name="emotion_label">表情选择</string>
